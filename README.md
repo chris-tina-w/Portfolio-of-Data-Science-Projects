@@ -1,4 +1,4 @@
-# This-is-My-Data-Science-Portfolio
+# My Data Science Portfolio
 Thanks for stopping by at my repository of data science projects!
 
 
