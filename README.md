@@ -12,6 +12,7 @@ Feel free to explore this space as I continue to develop my skills and intuition
  
 * **Data Analysis and Visualisation**
   - **R**
+    - [Student Marks] (Data Analysis of Student Marks.ipynb)
     - Movies Project
     - Dominance Matrices
     - Gene Expression Analysis
