@@ -3,7 +3,7 @@ Welcome to my repository of data science projects which have been created throug
 
 With a background in <ins>*Medicine*</ins> and <ins>*business consulting*</ins>, I love bringing new perspectives on my journey in Data Science which is grounded in *critical thinking* and looking at projects with the *larger business objectives* in mind.
 
-Feel free to explore this space as I continue to develop my skills and intuition in the exciting realm of data science.
+Feel free to explore my portfolio as I continue to develop my skills and intuition in the exciting realm of data science.
 
 ## My Projects
 * **Machine Learning**
