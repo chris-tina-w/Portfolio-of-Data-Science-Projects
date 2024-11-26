@@ -9,7 +9,7 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
 * **Machine Learning**
   - **Classical Machine Learning**
     - **Decision Tree**
-      - Building by hand
+      - Building Decision Tree from Scratch 
   - **Deep Learning**
  
 * **Data Analysis and Visualisation**
