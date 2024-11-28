@@ -9,15 +9,17 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
 * **Machine Learning**
   - **Classical Machine Learning**
     - **Decision Tree**
-      - [Mushroom Classification](Mushroom%20Classification.ipynb): Building Decision Tree from Scratch 
+      - [Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building Decision Tree from Scratch 
   - **Deep Learning**
+  - **Unsupervised Learning**
+    - **Clustering**
+      - DNA Analysis with R 
  
 * **Data Analysis and Visualisation**
   - **R**
     - [IMDb Project](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): analysis and visualisation of relationships between movie attributes (profit, ratings, social media engagement, etc.) as recorded on IMDb
     - [Student Marks](Data%20Analysis%20of%20Student%20Marks.ipynb): brief analysis and visualisation of student performance across three consecutive years
     - Dominance Matrices
-    - Gene Expression Analysis
   - **Data Mining in Weka**
     - Divorce Prediction
 * **SQL Projects**
