@@ -9,7 +9,7 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
 * **Machine Learning**
   - **Classical Machine Learning**
     - **Decision Tree**
-      - [Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building Decision Tree from Scratch 
+      - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building Decision Tree from Scratch 
   - **Deep Learning**
   - **Unsupervised Learning**
     - **Clustering**
