@@ -13,6 +13,7 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
   - **Deep Learning**
   - **Unsupervised Learning**
     - **Clustering**
+      - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Building K-Means Clustering from Scratch for Image Compression
       - DNA Analysis with R 
  
 * **Data Analysis and Visualisation**
