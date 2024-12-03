@@ -17,10 +17,9 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
       - DNA Analysis with R 
  
 * **Data Analysis and Visualisation**
-  - **R**
-    - [IMDb Project](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): analysis and visualisation of relationships between movie attributes (profit, ratings, social media engagement, etc.) as recorded on IMDb
-    - [Student Marks](Data%20Analysis%20of%20Student%20Marks.ipynb): brief analysis and visualisation of student performance across three consecutive years
-    - Dominance Matrices
+  - [IMDb Analysis with R](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): analysis and visualisation of relationships between movie attributes (profit, ratings, social media engagement, etc.) as recorded on IMDb
+  - [Student Marks Analysis with R](Data%20Analysis%20of%20Student%20Marks.ipynb): brief analysis and visualisation of student performance across three consecutive years
+  - Dominance Matrices
   - **Data Mining in Weka**
     - Divorce Prediction
 * **SQL Projects**
