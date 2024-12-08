@@ -16,7 +16,7 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
       - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Building K-Means Clustering from Scratch for Image Compression
       - DNA Analysis with R
     - **Anomaly Detection**
-      - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Building an Anomaly Detection Algoritim from Scratch for identifying potential Fraud
+      - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Building an Anomaly Detection Algorithm from Scratch for identifying potential Fraud
  
 * **Data Analysis and Visualisation**
   - [Cinema Analysis with R](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): analysis and visualisation of relationships between movie attributes (profit, ratings, social media engagement, etc.) as recorded on IMDb
