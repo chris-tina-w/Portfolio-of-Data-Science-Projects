@@ -23,7 +23,7 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
   - **Data Mining in Weka**
     - Divorce Prediction
 * **SQL Projects**
-    - [Gym Database with SQL](Gym%20_%20SQL.ipynb)
+    - [Gym Database with SQL](Gym_SQL.ipynb)
 * **Tableau Projects**
     - Social Media Analyses
 
