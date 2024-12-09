@@ -10,8 +10,8 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
   - **Classical Machine Learning**
     - **Decision Tree**
       - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building Decision Tree from Scratch 
-  - **Deep Learning**
     - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Data Mining Analysis on Divorce Prediction with Weka
+  - **Deep Learning**
   - **Unsupervised Learning**
     - **Clustering**
       - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Building K-Means Clustering from Scratch for Image Compression
