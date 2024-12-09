@@ -14,7 +14,9 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
   - **Unsupervised Learning**
     - **Clustering**
       - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Building K-Means Clustering from Scratch for Image Compression
-      - DNA Analysis with R 
+      - DNA Analysis with R
+    - **Anomaly Detection**
+      - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Building an Anomaly Detection algorithm from Scratch for identifying potential Fraud
  
 * **Data Analysis and Visualisation**
   - [Cinema Analysis with R](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): analysis and visualisation of relationships between movie attributes (profit, ratings, social media engagement, etc.) as recorded on IMDb
@@ -23,7 +25,7 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
   - **Data Mining in Weka**
     - Divorce Prediction
 * **SQL Projects**
-    - Gym Business
+    - [Gym Database with SQL](Gym_SQL.ipynb)
 * **Tableau Projects**
     - Social Media Analyses
 
