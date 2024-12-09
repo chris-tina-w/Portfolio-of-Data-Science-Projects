@@ -11,6 +11,7 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
     - **Decision Tree**
       - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building Decision Tree from Scratch 
   - **Deep Learning**
+    - [Divorce Prediction with Weka](
   - **Unsupervised Learning**
     - **Clustering**
       - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Building K-Means Clustering from Scratch for Image Compression
@@ -23,8 +24,7 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
   - [Student Performance Analysis with R](Data%20Analysis%20of%20Student%20Marks.ipynb): brief analysis and visualisation of student performance across three consecutive years
   - [Dominance Matrices with R](Dominance%20Matrices.ipynb): using R to analyse dominance matrices on the AFL ladder
   - 
-* **Data Mining in Weka**
-    - Divorce Prediction
+* 
 * **SQL Projects**
     - [Gym Database with SQL](Gym_SQL.ipynb)
 * **Tableau Projects**
