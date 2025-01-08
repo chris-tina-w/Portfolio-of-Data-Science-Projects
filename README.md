@@ -14,7 +14,7 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
     - **Deep Learning**
   - **Unsupervised Learning**
     - **Clustering**
-      - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Building K-means clustering from scratch for image compression
+      - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Building k-means clustering from scratch for image compression
       - DNA Analysis with R
     - **Anomaly Detection**
       - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Building an anomaly detection algorithm from scratch for identifying potential fraud
