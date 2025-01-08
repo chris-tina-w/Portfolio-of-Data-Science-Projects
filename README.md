@@ -9,15 +9,15 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
 * **Machine Learning**
   - **Supervised Machine Learning**
     - **Decision Tree**
-      - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building Decision Tree from Scratch 
-    - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Data Mining Analysis on Divorce Prediction with Weka
+      - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building decision tree from scratch 
+    - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Data mining analysis on divorce prediction with Weka
     - **Deep Learning**
   - **Unsupervised Learning**
     - **Clustering**
-      - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Building K-Means Clustering from Scratch for Image Compression
+      - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Building K-means clustering from scratch for image compression
       - DNA Analysis with R
     - **Anomaly Detection**
-      - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Building an Anomaly Detection algorithm from Scratch for identifying potential Fraud
+      - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Building an anomaly detection algorithm from scratch for identifying potential fraud
  
 * **Data Analysis and Visualisation**
   - [Cinema Analysis with R](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): analysis and visualisation of relationships between movie attributes (profit, ratings, social media engagement, etc.) as recorded on IMDb
