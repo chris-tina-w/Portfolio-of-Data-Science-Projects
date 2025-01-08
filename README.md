@@ -12,7 +12,7 @@ Feel free to explore my portfolio as I continue to develop my skills and intuiti
     - **Classification**
       - **Decision Tree**
         - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building decision tree from scratch 
-    - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Data mining analysis on divorce prediction with Weka
+      - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Data mining analysis on divorce prediction with Weka
   - **Deep Learning**
   - **Unsupervised Learning**
     - **Clustering**
