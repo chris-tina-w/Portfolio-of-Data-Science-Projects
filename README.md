@@ -29,10 +29,10 @@ Welcome to my repository of data science projects which have been created throug
     - Social Media Analyses
 
 ## Useful Resources
-Textbooks:
+**Textbooks**
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron
 - Modern Time Series Forecasting with Python By Manu Joseph
 
-Online Courses:
+**Online Courses**
 - Coursera's Machine Learning Specialization by Andrew Ng
 - Coursera's Deep Learning Specialization by Andrew Ng
