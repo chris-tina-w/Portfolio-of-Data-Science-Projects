@@ -36,6 +36,7 @@ Welcome to my repository of data science projects which have been created throug
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron
 - Modern Time Series Forecasting with Python by Manu Joseph
 - Deep Learning with Python by François Chollet
+- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications by Chip Huyen
 
 **Online Courses**
 - Coursera's Machine Learning Specialization by Andrew Ng
