@@ -5,6 +5,7 @@ Welcome to my repository of data science projects which have been created throug
 * **Machine Learning**
   - **Supervised Machine Learning**
     - **Regression**
+        - [Coffee Bean Prices Regression Model with Python](Coffee%20Beans.ipynb): Regression analysis on coffee bean prices
     - **Classification**
       - **Decision Tree**
         - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building decision tree from scratch 
