@@ -22,8 +22,7 @@ Welcome to my repository of data science projects which have been created throug
   - [Cinema Analysis with R](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): analysis and visualisation of relationships between movie attributes (profit, ratings, social media engagement, etc.) as recorded on IMDb
   - [Student Performance Analysis with R](Data%20Analysis%20of%20Student%20Marks.ipynb): brief analysis and visualisation of student performance across three consecutive years
   - [Dominance Matrices with R](Dominance%20Matrices.ipynb): using R to analyse dominance matrices on the AFL ladder
-  - 
-* 
+  
 * **SQL Projects**
     - [Gym Database with SQL](Gym_SQL.ipynb)
 * **Tableau Projects**
