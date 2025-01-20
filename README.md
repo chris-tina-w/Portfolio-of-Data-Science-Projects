@@ -8,7 +8,7 @@ Welcome to my repository of data science projects which have been created throug
         - [Coffee Bean Regression Model with Python](Coffee%20Bean%20Regression.ipynb): Predicting coffee bean trading volume based on market price indicators using regression analysis 
     - **Classification**
       - **Decision Tree**
-        - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building decision tree from scratch 
+        - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Implementing a decision tree algorithm from scratch to classify mushrooms into edible and poisonous categories
       - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Conducting data mining analysis for divorce prediction using Weka
   - **Deep Learning**
   - **Unsupervised Learning**
