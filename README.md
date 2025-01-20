@@ -31,6 +31,7 @@ Welcome to my repository of data science projects which have been created throug
 ## My Study Approach
 **Academic**
 - Master of Data Science (La Trobe University)
+- Graduate Certificate in Applied Data Science (Charles Sturt University) - Executive Dean's Award
 
 **Textbooks**
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron
