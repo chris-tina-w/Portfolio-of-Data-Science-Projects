@@ -5,23 +5,23 @@ Welcome to my repository of data science projects which have been created throug
 * **Machine Learning**
   - **Supervised Machine Learning**
     - **Regression**
-        - [Coffee Bean Prices Regression Model with Python](Coffee%20Beans.ipynb): Regression analysis on coffee bean prices
+        - [Coffee Bean Regression Model with Python](Coffee%20Bean%20Regression.ipynb): Predicting coffee bean trading volume based on market price indicators using regression analysis 
     - **Classification**
       - **Decision Tree**
         - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Building decision tree from scratch 
-      - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Data mining analysis on divorce prediction with Weka
+      - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Conducting data mining analysis for divorce prediction using Weka
   - **Deep Learning**
   - **Unsupervised Learning**
     - **Clustering**
-      - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Building k-means clustering from scratch for image compression
+      - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Implementing K-means clustering model from scratch for medical image compression
       - DNA Analysis with R
     - **Anomaly Detection**
-      - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Building an anomaly detection algorithm from scratch for identifying potential fraud
+      - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Developing an anomaly detection algorithm from scratch to identify potential fraudulent activities
  
 * **Data Analysis and Visualisation**
-  - [Cinema Analysis with R](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): analysis and visualisation of relationships between movie attributes (profit, ratings, social media engagement, etc.) as recorded on IMDb
-  - [Student Performance Analysis with R](Data%20Analysis%20of%20Student%20Marks.ipynb): brief analysis and visualisation of student performance across three consecutive years
-  - [Dominance Matrices with R](Dominance%20Matrices.ipynb): using R to analyse dominance matrices on the AFL ladder
+  - [Cinema Analysis with R](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): Analysing and visualising relationships between movie attributes using IMDb data
+  - [Student Performance Analysis with R](Data%20Analysis%20of%20Student%20Marks.ipynb): Conducting a brief analysis and visualistion of student performance
+  - [Dominance Matrices with R](Dominance%20Matrices.ipynb): Analysing AFL team rankings with dominance matrices in R
   
 * **SQL Projects**
     - [Gym Database with SQL](Gym_SQL.ipynb)
