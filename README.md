@@ -5,7 +5,8 @@ Welcome to my repository of data science projects which have been created throug
 * **Machine Learning**
   - **Supervised Machine Learning**
     - **Regression**
-        - [Coffee Bean Regression Model with Python](Coffee%20Bean%20Regression.ipynb): Predicting coffee bean trading volume based on market price indicators using regression analysis 
+        - [Body Temperature Regression Model with Python](Infrared%20Thermography%20Regression.ipynb): Predicting elevated body temperature with standardised infrared thermograph data using regression analysis 
+        - [Coffee Bean Time Series Regression with Python](Coffee%20Bean%20Regression.ipynb): Predicting coffee bean trading volume based on market price indicators using regression analysis 
     - **Classification**
       - **Decision Tree**
         - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Implementing a decision tree algorithm from scratch to classify mushrooms into edible and poisonous categories
@@ -24,7 +25,7 @@ Welcome to my repository of data science projects which have been created throug
   - [Dominance Matrices with R](Dominance%20Matrices.ipynb): Analysing AFL team rankings with dominance matrices in R
   
 * **SQL Projects**
-    - [Gym Database with SQL](Gym_SQL.ipynb)
+    - [Gym Membership Queries with Oracle](Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
 * **Tableau Projects**
     - Social Media Analyses
 
