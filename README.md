@@ -25,7 +25,7 @@ Welcome to my repository of data science projects which have been created throug
   - [Dominance Matrices with R](Dominance%20Matrices.ipynb): Analysing AFL team rankings with dominance matrices in R
   
 * **SQL Projects**
-    - [Gym Database with SQL](Gym_SQL.ipynb)
+    - [Gym Membership Queries with Oracle](Gym_SQL.ipynb): 
 * **Tableau Projects**
     - Social Media Analyses
 
