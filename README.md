@@ -1,14 +1,16 @@
 # Christina's Data Science Portfolio
 Welcome to my repository of data science projects which have been created through academic and self-learning pursuits. 
 
-## My Projects
-**Project 1: SQL and Tableau**
+## Project 1
+**SQL and Tableau**
 [Famous Artists and their Works: Exhibition, Value and Influence](https://public.tableau.com/views/FamousArtistsandtheirWorks/Art?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Project 2: Regression with Python**
+## Project 2
+**Regression with Python**
 [Body Temperature Regression Model with Python](Infrared%20Thermography%20Regression.ipynb): Predicting elevated body temperature with standardised infrared thermograph data using regression analysis 
 
-**Project 3: Unsupervised Learning with Clustering**
+## Project 3
+**Unsupervised Learning with Clustering**
 [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Implementing K-means clustering model from scratch for medical image compression
 
 ## More SQL Projects
