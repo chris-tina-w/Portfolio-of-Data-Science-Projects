@@ -14,7 +14,7 @@ Welcome to my repository of data science projects which have been created throug
 ## More SQL Projects
   - [Gym Membership Queries with Oracle](Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
       
-### More Machine Learning Projects
+## More Machine Learning Projects
   - **Supervised Machine Learning**
     - **Regression**
       - [Coffee Bean Time Series Regression with Python](Coffee%20Bean%20Regression.ipynb): Predicting coffee bean trading volume based on market price indicators using regression analysis 
