@@ -2,6 +2,10 @@
 Welcome to my repository of data science projects which have been created through academic and self-learning pursuits. 
 
 ## My Projects
+**Project 1: SQL and Tableau**
+[Famous Artists and their Works: Exhibition, Value and Influence](https://public.tableau.com/views/FamousArtistsandtheirWorks/Art?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 * **Machine Learning**
   - **Supervised Machine Learning**
     - **Regression**
