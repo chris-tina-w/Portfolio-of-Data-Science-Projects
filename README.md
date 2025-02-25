@@ -12,7 +12,7 @@ Welcome to my repository of data science projects which have been created throug
 [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Implementing K-means clustering model from scratch for medical image compression
 
 **More SQL Projects**
-    - [Gym Membership Queries with Oracle](Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
+  - [Gym Membership Queries with Oracle](Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
       
 **More Machine Learning Projects**
   - **Supervised Machine Learning**
