@@ -11,10 +11,10 @@ Welcome to my repository of data science projects which have been created throug
 **Project 3: Unsupervised Learning with Clustering**
 [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Implementing K-means clustering model from scratch for medical image compression
 
-* **More SQL Projects**
+**More SQL Projects**
     - [Gym Membership Queries with Oracle](Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
       
-* **More Machine Learning Projects**
+**More Machine Learning Projects**
   - **Supervised Machine Learning**
     - **Regression**
         - [Coffee Bean Time Series Regression with Python](Coffee%20Bean%20Regression.ipynb): Predicting coffee bean trading volume based on market price indicators using regression analysis 
@@ -29,7 +29,7 @@ Welcome to my repository of data science projects which have been created throug
     - **Anomaly Detection**
       - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Developing an anomaly detection algorithm from scratch to identify potential fraudulent activities
  
-* **More Data Analysis and Visualisation**
+**More Data Analysis and Visualisation**
   - [Cinema Analysis with R](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): Analysing and visualising relationships between movie attributes using IMDb data
   - [Student Performance Analysis with R](Data%20Analysis%20of%20Student%20Marks.ipynb): Conducting a brief analysis and visualistion of student performance
   - [Dominance Matrices with R](Dominance%20Matrices.ipynb): Analysing AFL team rankings with dominance matrices in R
