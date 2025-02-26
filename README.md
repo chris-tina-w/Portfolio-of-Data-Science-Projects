@@ -15,7 +15,7 @@ In this project, I analysed a fun dataset featuring famous artists and their wor
 
 _Dataset from: https://data.world/atlas-query/paintings_
 
-![](Famous%20Paintings/Story%201.png)
+![](Famous%20Paintings/Dashboards/Story%201.png)
 
 # Project 2: Regression with Python
 - [Body Temperature Regression Model with Python](Infrared%20Thermography%20Regression.ipynb): Predicting elevated body temperature with standardised infrared thermograph data using regression analysis 
