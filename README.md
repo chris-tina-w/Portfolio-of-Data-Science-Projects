@@ -4,7 +4,7 @@ Welcome to my repository of data science projects which have been created throug
 ## Project 1
 **SQL and Tableau**
 [Famous Artists and their Works: Exhibition, Value and Influence](https://public.tableau.com/views/FamousArtistsandtheirWorks/Art?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![](Famous Paintings/Story 1.png)
+![](Famous%20Paintings/Story%201.png)
 
 ## Project 2
 **Regression with Python**
