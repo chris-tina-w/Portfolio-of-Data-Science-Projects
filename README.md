@@ -4,15 +4,24 @@ Welcome to my repository of data science projects! With a background in medicine
 This collection highlights my journey of building technical skills and applying them to interesting real-world datasets and challenges. My goal is to bridge the gap between data and meaningful insights.   
 
 # Project 1: SQL and Tableau
-*[Famous Artists and their Works: Exhibition, Value and Influence](https://public.tableau.com/views/FamousArtistsandtheirWorks/Art?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+In this project, I analysed a fun dataset featuring famous artists and their works by:
+- Designing an [**ER Diagram**](Famous%20Paintings/Art%20ER%20Diagram.jpg) to model the database structure.
+- Performing [**Data Preprocessing**](Famous%20Paintings/art_preprocessing.ipynb) using Python and MySQL connector, including removing duplicates, changing data types, and creating primary and foreign keys.
+- Executing [**SQL Queries**](Famous%20Paintings/art%20sql.ipynb) with MySQL.
+- Developing an interactive [**Tableau Dashboard**](https://public.tableau.com/views/FamousArtistsandtheirWorks/Art?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualise the queries.
+
+### **ToolKit**
+- Python, MySQL, MySQL.Connector, Pandas, Tableau
+
+_Dataset from: https://data.world/atlas-query/paintings_
+
 ![](Famous%20Paintings/Story%201.png)
 
-## Project 2
-**Regression with Python**
-[Body Temperature Regression Model with Python](Infrared%20Thermography%20Regression.ipynb): Predicting elevated body temperature with standardised infrared thermograph data using regression analysis 
+# Project 2: Regression with Python
+- [Body Temperature Regression Model with Python](Infrared%20Thermography%20Regression.ipynb): Predicting elevated body temperature with standardised infrared thermograph data using regression analysis 
 
-## Project 3
-**Unsupervised Learning with Clustering**
+# Project 3: Unsupervised Learning 
+**Clustering**
 [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Implementing K-means clustering model from scratch for medical image compression
 
 ## More SQL Projects
