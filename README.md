@@ -1,33 +1,39 @@
 # Christina's Data Science Portfolio
 Welcome to my repository of data science projects which have been created through academic and self-learning pursuits. 
 
-## My Projects
-* **Machine Learning**
+## Project 1
+**SQL and Tableau**
+[Famous Artists and their Works: Exhibition, Value and Influence](https://public.tableau.com/views/FamousArtistsandtheirWorks/Art?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Project 2
+**Regression with Python**
+[Body Temperature Regression Model with Python](Infrared%20Thermography%20Regression.ipynb): Predicting elevated body temperature with standardised infrared thermograph data using regression analysis 
+
+## Project 3
+**Unsupervised Learning with Clustering**
+[Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Implementing K-means clustering model from scratch for medical image compression
+
+## More SQL Projects
+  - [Gym Membership Queries with Oracle](Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
+      
+## More Machine Learning Projects
   - **Supervised Machine Learning**
     - **Regression**
-        - [Body Temperature Regression Model with Python](Infrared%20Thermography%20Regression.ipynb): Predicting elevated body temperature with standardised infrared thermograph data using regression analysis 
-        - [Coffee Bean Time Series Regression with Python](Coffee%20Bean%20Regression.ipynb): Predicting coffee bean trading volume based on market price indicators using regression analysis 
+      - [Coffee Bean Time Series Regression with Python](Coffee%20Bean%20Regression.ipynb): Predicting coffee bean trading volume based on market price indicators using regression analysis 
     - **Classification**
-      - **Decision Tree**
-        - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Implementing a decision tree algorithm from scratch to classify mushrooms into edible and poisonous categories
+      - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Implementing a decision tree algorithm from scratch to classify mushrooms into edible and poisonous categories
       - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Conducting data mining analysis for divorce prediction using Weka
-  - **Deep Learning**
   - **Unsupervised Learning**
     - **Clustering**
-      - [Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Implementing K-means clustering model from scratch for medical image compression
       - DNA Analysis with R
     - **Anomaly Detection**
       - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Developing an anomaly detection algorithm from scratch to identify potential fraudulent activities
  
-* **Data Analysis and Visualisation**
+## More Data Analysis and Visualisation
   - [Cinema Analysis with R](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): Analysing and visualising relationships between movie attributes using IMDb data
   - [Student Performance Analysis with R](Data%20Analysis%20of%20Student%20Marks.ipynb): Conducting a brief analysis and visualistion of student performance
   - [Dominance Matrices with R](Dominance%20Matrices.ipynb): Analysing AFL team rankings with dominance matrices in R
   
-* **SQL Projects**
-    - [Gym Membership Queries with Oracle](Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
-* **Tableau Projects**
-    - Social Media Analyses
 
 ## My Study Approach
 **Academic**
