@@ -3,7 +3,7 @@ Welcome to my repository of data science projects! With a background in medicine
 
 This collection highlights my journey of building technical skills and applying them to interesting real-world datasets and challenges. My goal is to bridge the gap between data and meaningful insights.   
 
-## Project 1
+🔵 ## Project 1
 **SQL and Tableau**
 [Famous Artists and their Works: Exhibition, Value and Influence](https://public.tableau.com/views/FamousArtistsandtheirWorks/Art?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![](Famous%20Paintings/Story%201.png)
