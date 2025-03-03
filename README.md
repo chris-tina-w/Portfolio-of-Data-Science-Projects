@@ -1,7 +1,7 @@
 # *Christina's Data Science Portfolio*
 Welcome to my repository of data science projects! With a background in medicine, I am exploring the world of data science through academic study and self-directed learning. 
 
-This collection highlights my journey of building technical skills and applying them to interesting real-world datasets and challenges. My goal is to bridge the gap between data and meaningful insights.   
+This collection highlights my journey of building technical skills and applying them to interesting real-world datasets and challenges. My goal is to bridge the gap between data and meaningful insights through machine learning and AI.
 
 # Project 1: SQL and Tableau
 In this project, I analysed a dataset featuring famous artists and their works by:
