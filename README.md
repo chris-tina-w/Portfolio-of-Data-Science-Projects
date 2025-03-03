@@ -4,7 +4,7 @@ Welcome to my repository of data science projects! With a background in medicine
 This collection highlights my journey of building technical skills and applying them to interesting real-world datasets and challenges. My goal is to bridge the gap between data and meaningful insights.   
 
 # Project 1: SQL and Tableau
-In this project, I analysed a fun dataset featuring famous artists and their works by:
+In this project, I analysed a dataset featuring famous artists and their works by:
 - Designing an [**ER Diagram**](Famous%20Paintings/Art%20ER%20Diagram.jpg) to model the database structure.
 - Performing [**Data Preprocessing**](Famous%20Paintings/art_preprocessing.ipynb) using Python and MySQL connector, including removing duplicates, changing data types, and creating primary and foreign keys.
 - Executing [**SQL Queries**](Famous%20Paintings/art%20sql.ipynb) with MySQL.
