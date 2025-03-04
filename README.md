@@ -60,7 +60,7 @@ In this [Skin Lesion Image Compression Project](Skin%20Lesion%20K-Means%20Cluste
 ## More Machine Learning Projects
   - **Supervised Machine Learning**
     - **Regression**
-      - [Coffee Bean Time Series Regression with Python](Coffee%20Bean%20Regression.ipynb): Predicting coffee bean trading volume based on market price indicators using regression analysis 
+      - [Coffee Bean Time Series Regression with Python](Coffee%20Bean%20Regression/Coffee%20Bean%20Regression.ipynb): Predicting coffee bean trading volume based on market price indicators using regression analysis 
     - **Classification**
       - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Implementing a decision tree algorithm from scratch to classify mushrooms into edible and poisonous categories
       - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Conducting data mining analysis for divorce prediction using Weka
