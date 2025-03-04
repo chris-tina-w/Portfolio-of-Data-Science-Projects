@@ -39,9 +39,20 @@ In this project, I explored whether infrared thermography readings could effecti
 
 ![](Infrared%20Thermography%20Regression/rmse_plot.jpg)
 
-# Project 3: Unsupervised Learning 
-**Clustering**
-[Skin Lesion Image Compression with Python](Skin%20Lesion%20K-Means%20Clustering.ipynb): Implementing K-means clustering model from scratch for medical image compression
+# Project 3: Unsupervised Machine Learning with K-Means Clustering
+In this [Skin Lesion Image Compression Project](Skin%20Lesion%20K-Means%20Clustering.ipynb), I built a K-means clustering model from scratch to compress a medical image into 30 representative centroid colours. 
+- Compressing medical imaging can enhance machine learning models by emphasising dominant patterns while reducing memory usage.
+
+### **Methodology**
+- Initialised random centroids.
+- Assigned each data point to the nearest centroid.
+- Computed the means of all points assigned to each centroid to update centroid positions.
+- Repeated the process with K-means algorithm
+
+### **ToolKit**
+- Python, Numpy, Matplotlib
+  
+![](Skin%20Lesion%20K-Means%20Clustering/lesion_plot.jpg)
 
 ## More SQL Projects
   - [Gym Membership Queries with Oracle](Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
@@ -53,9 +64,7 @@ In this project, I explored whether infrared thermography readings could effecti
     - **Classification**
       - [Edible Mushroom Classification with Python](Mushroom%20Classification.ipynb): Implementing a decision tree algorithm from scratch to classify mushrooms into edible and poisonous categories
       - [Divorce Prediction with Weka](Divorce%20Prediction.ipynb): Conducting data mining analysis for divorce prediction using Weka
-  - **Unsupervised Learning**
-    - **Clustering**
-      - DNA Analysis with R
+  - **Unsupervised Machine Learning**
     - **Anomaly Detection**
       - [Fraud Detection with Python](Transaction%20Fraud%20Anomaly%20Detection.ipynb): Developing an anomaly detection algorithm from scratch to identify potential fraudulent activities
  
@@ -70,12 +79,12 @@ In this project, I explored whether infrared thermography readings could effecti
 - Master of Data Science (La Trobe University)
 - Graduate Certificate in Applied Data Science (Charles Sturt University) - Executive Dean's Award
 
+**Online Courses**
+- Coursera's Machine Learning Specialization with Andrew Ng
+- Coursera's Deep Learning Specialization with Andrew Ng
+
 **Textbooks**
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron
 - Modern Time Series Forecasting with Python by Manu Joseph
 - Deep Learning with Python by François Chollet
 - Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications by Chip Huyen
-
-**Online Courses**
-- Coursera's Machine Learning Specialization by Andrew Ng
-- Coursera's Deep Learning Specialization by Andrew Ng
