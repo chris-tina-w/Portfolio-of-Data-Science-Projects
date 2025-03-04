@@ -40,7 +40,7 @@ In this project, I explored whether infrared thermography readings could effecti
 ![](Infrared%20Thermography%20Regression/rmse_plot.jpg)
 
 # Project 3: Unsupervised Machine Learning with K-Means Clustering
-In this [Skin Lesion Image Compression Project](Skin%20Lesion%20K-Means%20Clustering.ipynb), I built a K-means clustering model from scratch to compress a medical image into 30 representative centroid colours. 
+In this [Skin Lesion Image Compression Project](Skin%20Lesion%20K-Means%20Clustering/Skin%20Lesion%20K-Means%20Clustering.ipynb), I built a K-means clustering model from scratch to compress a medical image into 30 representative centroid colours. 
 - Compressing medical imaging can enhance machine learning models by emphasising dominant patterns while reducing memory usage.
 
 ### **Methodology**
