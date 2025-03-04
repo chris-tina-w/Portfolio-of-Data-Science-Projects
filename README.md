@@ -70,7 +70,7 @@ In this [Skin Lesion Image Compression Project](Skin%20Lesion%20K-Means%20Cluste
  
 ## More Data Analysis and Visualisation
   - [Cinema Analysis with R](Data%20Analysis%20of%20IMDB%20Dataset.ipynb): Analysing and visualising relationships between movie attributes using IMDb data
-  - [Student Performance Analysis with R](Data%20Analysis%20of%20Student%20Marks.ipynb): Conducting a brief analysis and visualistion of student performance
+  - [Student Performance Analysis with R](Student%20Marks/Data%20Analysis%20of%20Student%20Marks.ipynb): Conducting a brief analysis and visualistion of student performance
   - [Dominance Matrices with R](Dominance%20Matrices.ipynb): Analysing AFL team rankings with dominance matrices in R
   
 
