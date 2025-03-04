@@ -1,21 +1,26 @@
 # *Christina's Data Science Portfolio*
-Welcome to my repository of data science projects! With a background in medicine, I have been eagerly exploring the world of data science through academic study and self-directed learning. 
+Welcome to my repository of data science projects! With a background in medicine, I am exploring the world of data science through academic study and self-directed learning. 
 
-This collection highlights my journey of building technical skills and applying them to interesting real-world datasets and challenges. My goal is to bridge the gap between data and meaningful insights.   
+This collection highlights my journey of building technical skills and applying them to interesting real-world datasets and challenges. My goal is to bridge the gap between data and meaningful insights through machine learning and AI.
 
 # Project 1: SQL and Tableau
-In this project, I analysed a fun dataset featuring famous artists and their works by:
-- Designing an [**ER Diagram**](Famous%20Paintings/Art%20ER%20Diagram.jpg) to model the database structure.
-- Performing [**Data Preprocessing**](Famous%20Paintings/art_preprocessing.ipynb) using Python and MySQL connector, including removing duplicates, changing data types, and creating primary and foreign keys.
-- Executing [**SQL Queries**](Famous%20Paintings/art%20sql.ipynb) with MySQL.
-- Developing an interactive [**Tableau Dashboard**](https://public.tableau.com/views/FamousArtistsandtheirWorks/Art?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualise the queries. (Screenshots of the dashboards can be found [here](Famous%20Paintings/art%20dashboards.md))
+In this project, I analysed a dataset featuring famous artists and their works using SQL and Tableau which showed that:
+- Significant collections are concentrated in a few countries
+- Few artists have reached an international audience, with many of their works confined to private collections
+- Shifts in artistic preference influence what is displayed in museums and what holds value in the art market
+
+### **Methodology**
+- Designed an [**ER Diagram**](Famous%20Paintings/Art%20ER%20Diagram.jpg) to model the database structure.
+- Performed [**Data Preprocessing**](Famous%20Paintings/art_preprocessing.ipynb) using Python and MySQL connector, including removing duplicates, changing data types, and creating primary and foreign keys.
+- Executed [**SQL Queries**](Famous%20Paintings/art%20sql.ipynb) with MySQL.
+- Developed an interactive [**Tableau Dashboard**](https://public.tableau.com/views/FamousArtistsandtheirWorks/Art?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualise the queries. (Screenshots of the dashboards can be found [here](Famous%20Paintings/Dashboards/art%20dashboards.md))
 
 ### **ToolKit**
 - Python, MySQL, MySQL.Connector, Pandas, Tableau
 
 _Dataset from: https://data.world/atlas-query/paintings_
 
-![](Famous%20Paintings/Story%201.png)
+![](Famous%20Paintings/Dashboards/Story%201.png)
 
 # Project 2: Regression with Python
 - [Body Temperature Regression Model with Python](Infrared%20Thermography%20Regression.ipynb): Predicting elevated body temperature with standardised infrared thermograph data using regression analysis 
