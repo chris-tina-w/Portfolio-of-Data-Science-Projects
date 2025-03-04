@@ -23,8 +23,21 @@ _Dataset from: https://data.world/atlas-query/paintings_
 ![](Famous%20Paintings/Dashboards/Story%201.png)
 
 # Project 2: Regression with Python
-- [Body Temperature Regression Model with Python](Infrared%20Thermography%20Regression/Infrared%20Thermography%20Regression.ipynb): Predicting elevated body temperature with standardised infrared thermograph data using regression analysis
-- ![](Infrared%20Thermography%20Regression/rmse_plot.jpg)
+In this project, I explored whether infrared thermography readings could effectively predict elevated body temperatures using regression analysis. 
+- My [Body Temperature Regression Model](Infrared%20Thermography%20Regression/Infrared%20Thermography%20Regression.ipynb) was able to predict body temperatures with an error of 0.2404 degrees. 
+
+### **Methodology**
+- Applied Box-Cox transformation to normalise the target variable.
+- Computed correlation matrix to assess relationships between predictors and target variable.
+- Developed a data preprocessing pipeline, including imputation, ordinal encoding, and one-hot encoding.
+- Set up a function to train and evaluate models with metrics including root mean squared error, coefficient of determination, and bias
+- Trained data on linear regression, ridge regression, lasso regression, elasticnet regression, LGBMRegressor, and random forest regressor
+- Implemented hyperparameter tuning for LGBMRegressor
+
+### **ToolKit**
+- Python, Numpy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn
+
+![](Infrared%20Thermography%20Regression/rmse_plot.jpg)
 
 # Project 3: Unsupervised Learning 
 **Clustering**
