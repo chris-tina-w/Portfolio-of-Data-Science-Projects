@@ -25,7 +25,6 @@ _Dataset from: https://data.world/atlas-query/paintings_
 # Project 2: Regression with Python
 - [Body Temperature Regression Model with Python](Infrared%20Thermography%20Regression/Infrared%20Thermography%20Regression.ipynb): Predicting elevated body temperature with standardised infrared thermograph data using regression analysis
 - ![](Infrared%20Thermography%20Regression/rmse_plot.jpg)
-- ![](Infrared%20Thermography%20Regression/lasso_reg_plot.jpg)
 
 # Project 3: Unsupervised Learning 
 **Clustering**
