@@ -55,7 +55,7 @@ In this [Skin Lesion Image Compression Project](Skin%20Lesion%20K-Means%20Cluste
 ![](Skin%20Lesion%20K-Means%20Clustering/lesion_plot.jpg)
 
 ## More SQL Projects
-  - [Gym Membership Queries with Oracle](Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
+  - [Gym Membership Queries with Oracle](Gym%20SQL/Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
       
 ## More Machine Learning Projects
   - **Supervised Machine Learning**
