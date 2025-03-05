@@ -12,7 +12,7 @@ In this project, I analysed a dataset featuring famous artists and their works u
 ### **Methodology**
 - Designed an [**ER Diagram**](Famous%20Paintings/Art%20ER%20Diagram.jpg) to model the database structure.
 - Performed [**Data Preprocessing**](Famous%20Paintings/art_preprocessing.ipynb) using Python and MySQL connector, including removing duplicates, changing data types, and creating primary and foreign keys.
-- Executed [**SQL Queries**](Famous%20Paintings/art%20sql.ipynb) with MySQL.
+- Executed [**SQL Queries**](Famous%20Paintings/art_sql.ipynb) with MySQL.
 - Developed an interactive [**Tableau Dashboard**](https://public.tableau.com/views/FamousArtistsandtheirWorks/Art?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualise the queries. (Screenshots of the dashboards can be found [here](Famous%20Paintings/Dashboards/art%20dashboards.md))
 
 ### **ToolKit**
