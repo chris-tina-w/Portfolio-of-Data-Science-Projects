@@ -1,4 +1,4 @@
-# *Christina's Data Science Portfolio*
+![image](https://github.com/user-attachments/assets/4c07aa13-14fa-410a-9e8d-c8d548cc51ed)# *Christina's Data Science Portfolio*
 Welcome to my repository of data science projects! With a background in medicine, I am exploring the world of data science through academic study and self-directed learning. 
 
 This collection highlights my journey of building technical skills and applying them to interesting real-world datasets and challenges. My goal is to bridge the gap between data and meaningful insights through machine learning and AI.
@@ -55,7 +55,10 @@ In this [Skin Lesion Image Compression Project](Skin%20Lesion%20K-Means%20Cluste
 ![](Skin%20Lesion%20K-Means%20Clustering/lesion_plot.jpg)
 
 ## More SQL Projects
-  - [Gym Membership Queries with Oracle](Gym%20SQL/Gym_SQL.ipynb): creating SQL queries, stored procedures, stored functions, and triggers
+  - [Gym Membership Queries with Oracle](Gym%20SQL/Gym_SQL.ipynb): Creating SQL queries, stored procedures, stored functions, and triggers to engage with a membership database
+
+## Statistical Experimentation
+- [A/B Testing](AB%20Testing/AB%20Testing.ipynb): Assessing the effect of timed progression gates on user retention and gameplay through A/B Testing
       
 ## More Machine Learning Projects
   - **Supervised Machine Learning**
