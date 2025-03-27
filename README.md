@@ -27,7 +27,7 @@ In this project, I explored whether infrared thermography readings could effecti
 - My [Body Temperature Regression Model](Infrared%20Thermography%20Regression/Infrared%20Thermography%20Regression.ipynb) was able to predict body temperatures with an error of 0.2404 degrees. 
 
 ### **Methodology**
-- Applied Box-Cox transformation to normalise the target variable.
+- Applied Box-Cox transformation on the target variable to approximate normal distribution
 - Computed correlation matrix to assess relationships between predictors and target variable.
 - Developed a data preprocessing pipeline, including imputation, ordinal encoding, and one-hot encoding.
 - Set up a function to train and evaluate models with metrics including root mean squared error, coefficient of determination, and bias
